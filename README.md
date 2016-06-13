@@ -15,7 +15,7 @@ In addition to designing for constraints related to the immobility of the patien
 The game is downloadable as .apk file and will soon be available as an open-source Unity package and available as a free download in the Google Play Store.
 
 #### Installing the APK file
-You can install APK file from the browser on your Android smartphone or tablet. Just open your device's browser and go this [link], you should then be able to see it downloading on the top bar of your device. Once it's downloaded, open Downloads, tap on the APK file (you may need to navigate to the "downloads" folder), and tap Yes when prompted. The app will begin installing on your device. 
+You can install APK file from the browser on your Android smartphone or tablet. Just open your device's browser and go this [link], you should then be able to see it downloading on the top bar of your device. Once it's downloaded, open Downloads, tap on the APK file (you may need to navigate to the "downloads" folder), and tap Yes when prompted. The app will begin installing on your device.
 
 You may need to enable a security setting in case it hasn't been enabled yet:
 ![Epione game software](imgs/security.jpg)
