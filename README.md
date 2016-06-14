@@ -12,7 +12,7 @@ Starting in late 2015, an interdisciplinary internal project team located in fro
 
 In addition to designing for constraints related to the immobility of the patient, we built-in two types of game mechanic to appeal to a target audience consisting of all age groups, demographics, and familiarity with games. One game-type is meditative, slower paced, and does not record a player’s score or progress. The other game type is fast-paced, more intense and records the longest distance a user is able to achieve.
 
-The game is [downloadable as an .apk](http://fro.gd/VRcareEpione) file and will soon be available as an open-source Unity package.
+The game is [downloadable as an .apk](http://fro.gd/VRcareEpione) file and as an open-source Unity package.
 
 #### Installing the APK file
 You can install APK file from the browser on your Android smartphone or tablet. Just open your device's browser and go this link:
