@@ -12,11 +12,11 @@ Starting in late 2015, an interdisciplinary internal project team located in fro
 
 In addition to designing for constraints related to the immobility of the patient, we built-in two types of game mechanic to appeal to a target audience consisting of all age groups, demographics, and familiarity with games. One game-type is meditative, slower paced, and does not record a player’s score or progress. The other game type is fast-paced, more intense and records the longest distance a user is able to achieve.
 
-The game is [downloadable as an .apk](http://frogdesign.com/sites/default/files/Epione.apk) file and will soon be available as an open-source Unity package.
+The game is [downloadable as an .apk](http://fro.gd/VRcareEpione%E2%80%8B) file and will soon be available as an open-source Unity package.
 
 #### Installing the APK file
 You can install APK file from the browser on your Android smartphone or tablet. Just open your device's browser and go this link:
-* US - [http://frogdesign.com/sites/default/files/Epione.apk](http://frogdesign.com/sites/default/files/Epione.apk)
+* US - [http://fro.gd/VRcareEpione%E2%80%8B](http://fro.gd/VRcareEpione%E2%80%8B)
 * China - [http://frogdesign.cn/sites/default/files/Epione.apk](http://frogdesign.cn/sites/default/files/Epione.apk)
 
 you should then be able to see it downloading on the top bar of your device. Once it's downloaded, open Downloads, tap on the APK file (you may need to navigate to the "downloads" folder in the "My Files" folder), and tap Yes when prompted. The app will begin installing on your device.
