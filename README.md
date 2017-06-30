@@ -36,7 +36,7 @@ You may need to enable a security setting in case it hasn't been enabled yet. Cl
 * Oversight / Space Yeti - Mark Freudenberg
 * Marketing - Amy MacMillan
 
-####Contact
+#### Contact
 * For partnership or development opportunities contact:
 	* business [at] frogdesign [dot] com
 * For media inquiries or additional information about the project contact:
